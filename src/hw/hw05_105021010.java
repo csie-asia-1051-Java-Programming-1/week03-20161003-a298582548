@@ -13,7 +13,6 @@ public class hw05_105021010 {
 		int v1 = scn.nextInt();
 		int v2 = 0;
 		for(int i = 0 ; v1 > 0 ; v1--){
-			
 		v2 = v1*(v1+1)+v2;    
 	    }
 	     System.out.println(v2);
